@@ -3,3 +3,9 @@ A00473377
 Public int addition (int a, int b) {
 	return a/b; 
 }
+
+#A00476517
+
+Public int mod (int a, int b) {
+	return a%b; 
+}
