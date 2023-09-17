@@ -9,3 +9,9 @@ Public int addition (int a, int b) {
 Public int avg (int a, int b) {
 	return Math.avg(a,b) 
 }
+
+#A00478196
+
+Public int pow (int a, int b) {
+	return Math.pow(a,b)
+}
