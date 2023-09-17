@@ -3,3 +3,9 @@ A00473377
 Public int addition (int a, int b) {
 	return Math.max(a,b) 
 }
+
+#A00476517
+
+Public int avg (int a, int b) {
+	return Math.avg(a,b) 
+}
