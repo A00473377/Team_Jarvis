@@ -9,3 +9,9 @@ Public int addition (int a, int b) {
 Public int mod (int a, int b) {
 	return a%b; 
 }
+
+#A00478196
+
+Public int min (int a, int b) {
+	return Math.min(a,b); 
+}
